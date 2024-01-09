@@ -282,3 +282,31 @@ padding-left: 15px;
     padding: 10px 10px 10px 10px;
     
 }
+.foot{
+    background-color: black;
+}
+.top{
+    color: #FFF;
+    display: flex;
+   
+}
+.address{
+    margin: 50px 0px 0px 15px;
+}
+.icon{
+    margin: 50px 50px 50px 700px;
+}
+.middle{
+    text-align: center;
+}
+.bottom{
+    display: flex;
+    color: #FFF;
+}
+.right{
+    display: i;
+    margin: 50px 0px 20px 55px;
+}
+.un{
+    margin: 50px 50px 50px 900px;
+}
